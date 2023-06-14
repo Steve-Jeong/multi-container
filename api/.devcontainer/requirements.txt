@@ -1,0 +1,6 @@
+pylint
+pycodestyle
+black
+fastapi
+uvicorn[standard]
+redis
